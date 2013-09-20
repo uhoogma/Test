@@ -7,9 +7,7 @@ public class A {
 		System.out.println("ok");
 
 		
-		
-		
-		
+				
 		System.out.println("ok");
 
 	}
